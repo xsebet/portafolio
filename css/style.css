@@ -140,7 +140,7 @@ a:hover {
     border-radius: 20px;
     border: 3px solid var(--color-terciario);
     box-shadow: 0 0 20px rgba(34, 212, 253, 0.5);
-    width: 80%;
+    width: 100%;
 }
 
 .imagen img:hover {
@@ -192,5 +192,6 @@ p:hover {
     .presentación_contenido {
         width: auto;
     }
+
 
 }
