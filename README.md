@@ -1,6 +1,6 @@
 # 📌 Portfolio
 
-¡Hola! Bienvenido a mi proyecto de portafolio, un espacio donde presento mis habilidades y proyectos como desarrollador web.
+¡Hola! Bienvenido a mi proyecto de portafolio, un espacio donde presento mis habilidades y proyectos como desarrollador web, basado los cursos de Alura Latam.
 
 🔗 **Versión en línea:** [Ver en Vercel](https://portafolio-snowy-alpha-42.vercel.app/)
 
