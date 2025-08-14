@@ -59,7 +59,6 @@ a:hover {
 }
 
 .header__menu{
-    background-color: var(--color-terciario);
     display: flex;
     gap: 80px;
 }
@@ -197,6 +196,7 @@ p:hover {
 
 
 }
+
 
 
 
