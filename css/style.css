@@ -54,6 +54,7 @@ a:hover {
 
 */
 .header{
+    position: fixed;
     padding: 2% 0% 0% 15%; /*top,right,button,left*/
 }
 
@@ -195,3 +196,4 @@ p:hover {
 
 
 }
+
