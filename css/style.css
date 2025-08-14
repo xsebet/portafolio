@@ -54,12 +54,12 @@ a:hover {
 
 */
 .header{
-    background-color: var(--color-terciario);
     position: fixed;
     padding: 2% 0% 0% 15%; /*top,right,button,left*/
 }
 
 .header__menu{
+    background-color: var(--color-terciario);
     display: flex;
     gap: 80px;
 }
@@ -197,6 +197,7 @@ p:hover {
 
 
 }
+
 
 
 
